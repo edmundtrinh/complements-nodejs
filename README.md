@@ -1,6 +1,6 @@
 # complements-nodejs
 
-npm start to start
+`npm start` to start
 
 Navigate your browser to http://localhost:3000
 
